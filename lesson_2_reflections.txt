@@ -1,1 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
+
+Initialize a repository creating connection between git and your local storage, after initializing you are able to commit your changes in order to make your life easier :)
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a zone which saves your changes and you are able to check which files you added to this snapshot, It really helps cuz of direct change you creating a cloud save which will help you to revert changes if you don't like it.
