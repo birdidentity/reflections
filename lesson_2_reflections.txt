@@ -5,3 +5,11 @@ Initialize a repository creating connection between git and your local storage, 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is a zone which saves your changes and you are able to check which files you added to this snapshot, It really helps cuz of direct change you creating a cloud save which will help you to revert changes if you don't like it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can check diff between local directory and staging area including files that you changed and same you can do with last commit by using this command git 'diff --stage'
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+In case if you want add new feature or to test some update, with branches you can easily test/create new feature without changing master branch which makes delvelopment process faster.
