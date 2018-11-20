@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 You can see part of the code when you created this branch, it will help to understand what is missing in this part of the branch by reading commits in master branch.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Result of merging will be master branch with all features from another branch. Diagram helps to understand from which point changes were made.
+
