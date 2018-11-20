@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Result of merging will be master branch with all features from another branch. Diagram helps to understand from which point changes were made.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It helps to avoid unexpected conflicts when you doing merging manually when automatic merging can create really big problems in a big project.
+
