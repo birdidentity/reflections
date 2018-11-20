@@ -13,3 +13,8 @@ You can check diff between local directory and staging area including files that
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 In case if you want add new feature or to test some update, with branches you can easily test/create new feature without changing master branch which makes delvelopment process faster.
+
+How do the diagrams help you visualize the branch structure?
+
+You can see part of the code when you created this branch, it will help to understand what is missing in this part of the branch by reading commits in master branch.
+
