@@ -5,3 +5,8 @@ When you making a project probably you have a group of people who are you workin
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Probably when you making a stable version of new feature or project it would be better to push/pull only when it will be comfortable for you, manual push/pull requests keep your projects clean and logical.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are clones of github repositories, i'll use it in case if it might be useful for me but i want to add some features,
+clones is the same but it can be done remote and local, i'll use clone mostly in cases when i need to copy project from remote to my local machine to add something and branches i'll use mostly to in my own project or my company project to add some new feature or for bug fixing but to avoid any conflicts with main version of the project , when stable version will be ready i can merge this feature to the master branch.
