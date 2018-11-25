@@ -14,3 +14,11 @@ clones is the same but it can be done remote and local, i'll use clone mostly in
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 First of all you can see last notes for whole project and it is very useful when you want to update project, anyway you can always go back by checkout to previous comment.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Probably by sharing my project via another platform so other guys could donwload it. Also it can be shared via local network but it will be possible only in case if all developers connected to one network. It will be much more harder than using github cuz it takes time to upload whole project, all will be harder to find changes in this projects. Such development can be really messy.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Probably ill make changes directly in master if changes are small. Branches ill use to add some new feature or if i need to changes something globaly. It is faster to change something in master but it keeps your project more safe in case if you creating new branch.
